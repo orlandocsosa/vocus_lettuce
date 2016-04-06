@@ -14,7 +14,6 @@ class VocusPage(AbstractPage):
         element.click()
 
     def click_menu(self):
-        # Workaround. According to Selenium, the element is not visible in Firefox.
         element = self.driver.find_element(*VocusMainPageLocator.MENU)
         element.click()
 
