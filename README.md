@@ -1,3 +1,3 @@
 # vocus_lettuce
 
-This is a simple test demonstrating the usage of `lettucce` + `lettuce_webdriver`
+This is a simple test demonstrating the usage of `lettucce` + `lettuce_webdriver` on Vocus website.
